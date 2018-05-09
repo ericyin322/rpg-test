@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":false,"name":"普通城鎮","order":2,"parentId":2,"scrollX":1088,"scrollY":850},
+{"id":2,"expanded":true,"name":"世界 1","order":1,"parentId":0,"scrollX":1548,"scrollY":834},
+{"id":3,"expanded":false,"name":"迷宮","order":3,"parentId":2,"scrollX":816,"scrollY":800}
+]
